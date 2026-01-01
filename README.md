@@ -1,4 +1,4 @@
-E-Commerce Recommendation & Inventory System Using Data Structures
+E-Commerce Management System
 
 A console-based C++ e-commerce project demonstrating the use of fundamental data structures such as doubly linked lists, stacks, queues, and binary search trees (BST).
 
@@ -51,5 +51,6 @@ Author
 Faiz Mukhtar – 3rd Semester Computer Science Student  
 GitHub: https://github.com/faiz656
 LinkedIn: www.linkedin.com/in/faiz-mukhtar-b3317a274
+
 
 
